@@ -26,6 +26,7 @@ Algorithms analysis is all about understanding growth rates. It is about underst
 
 A constant resource need is one where the resource need does not grow. That is processing 1 piece of data takes the same amount of resource as processing 1 million pieces of data.
 
+![Constant resource graph](/images/2023-05-19-algorithms_analysis/constant_resource_graph.jpeg "Constant")
 
 
 
