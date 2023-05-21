@@ -70,7 +70,11 @@ An exponential growth rate is one where each extra unit of data requires a doubl
 Asymptotic notation are formal notational methods for stating the upper and lower bounds of a function. They are the notations used when describing resource needs. These are: O()
 (Pronounced, Big-O, Little-O, Omega and Theta respectively). The f(n) inside each of these notations is a description of a curve like we saw in the previous section. They describe the shape of a line.
 
+# Worst case, Best Case, Average Case
 
+The asymptotic notation system for bounds is often confused with the idea of worst case, best case and average case. They are actually very different things. Big-O does not describe a worst case, Omega does not describe a best case. Big-O describes an upper bound on each of these cases. Similarly Omega describes a lower bound on each of these cases. We should not mix up this idea.
+
+In practice, most of the time we deal with either worst case or average case. We rarely ever consider best case. Each case can still have an upper bound(big-O) or lower bound (Omega).
 
 
 
