@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Algorithms Analysis"
 categories: Algorithm
 tag: [test, test2]
