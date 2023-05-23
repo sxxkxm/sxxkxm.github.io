@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Soo Kim"
   avatar           : "/images/common/bio-photo.png"
-  bio              : "Web Developer"
+#  bio              : "Web Developer"
   location         : "Canada"
 #  email            : "sxxkxm@gmail.com"
   links:
