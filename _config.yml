@@ -108,7 +108,7 @@ author:
   avatar           : "/images/common/bio-photo.png"
   bio              : "Web Developer"
   location         : "Canada"
-  email            : "sxxkxm@gmail.com"
+#  email            : "sxxkxm@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
