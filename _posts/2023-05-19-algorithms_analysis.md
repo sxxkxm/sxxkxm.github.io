@@ -78,6 +78,22 @@ In practice, most of the time we deal with either worst case or average case. We
 
 
 
+# 5 steps
+
+Doing mathematical analysis can be intimidating. However, what you are really doing is simply explaining a thought process. This can be done in a fairly consistent step by step manner. This section looks at the steps you should take to do this and break down how to approach an analysis.
+
+## Step 0: It is good to start by putting your code in.
+
+## Step 1: Establish variables and functions
+
+## Step 2: Count your operations
+
+## Step 3: Establish the Mathematical Expression for T(n)
+
+## Step 4: Simplify your Equation
+
+## Step 5: State your final result.
+
 
 
 
